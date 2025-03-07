@@ -1,0 +1,25 @@
+{
+  "name": "news-explorer__backend",
+  "version": "1.0.0",
+  "description": "It's the backend for my new project:\"newsExplorer\" ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMLUOAI/News-Explorer__backend.git"
+  },
+  "keywords": [
+    "newsExplorer"
+  ],
+  "author": "Samuel Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMLUOAI/News-Explorer__backend/issues"
+  },
+  "homepage": "https://github.com/IMLUOAI/News-Explorer__backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
